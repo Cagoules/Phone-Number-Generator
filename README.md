@@ -8,3 +8,7 @@ I used 2 python packages, one called "random", basically include in python, and 
 Go to your terminal and type "pip install phonenumbers"
 ```
 
+# Using the script
+```
+python main.py then specifie the amount of numbers you want
+```
