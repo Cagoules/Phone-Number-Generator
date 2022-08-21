@@ -10,5 +10,5 @@ Go to your terminal and type "pip install phonenumbers"
 
 # Using the script
 ```
-python main.py then specifie the amount of numbers you want
+python main.py then specify the amount of numbers you want
 ```
